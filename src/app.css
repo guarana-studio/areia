@@ -1,0 +1,10 @@
+@import "tailwindcss";
+@import "basecoat-css";
+
+body {
+  font-family: "Geist Variable", sans-serif;
+}
+
+.wterm {
+  @apply rounded-none! text-sm! shadow-none!;
+}
