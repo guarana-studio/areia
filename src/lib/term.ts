@@ -27,6 +27,7 @@ export class WTermAdapter implements T {
         this._onResizeCb?.();
       },
       rows: 8,
+      autoResize: true,
     });
     this.wterm.init().then(() => {
       this._ready = true;

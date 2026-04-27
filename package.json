@@ -14,13 +14,21 @@
     "@fontsource-variable/geist": "^5.2.8",
     "@fontsource-variable/geist-mono": "^5.2.7",
     "@ilha/router": "^0.2.3",
+    "@ilha/store": "^0.1.4",
+    "@orpc/client": "^1.14.0",
+    "@orpc/server": "^1.14.0",
     "@pierre/trees": "^1.0.0-beta.3",
     "@scelar/nodepod": "^1.7.4",
+    "@spectrum-web-components/split-view": "^1.11.2",
     "@wterm/dom": "^0.1.9",
     "@wterm/just-bash": "^0.1.9",
+    "@zip.js/zip.js": "^2.8.26",
     "basecoat-css": "^0.3.11",
     "ilha": "^0.3.1",
-    "modern-monaco": "^0.4.0"
+    "lucide": "^1.11.0",
+    "modern-monaco": "^0.4.0",
+    "nitro": "^3.0.260415-beta",
+    "ofetch": "^1.5.1"
   },
   "devDependencies": {
     "@tailwindcss/vite": "^4.2.4",
